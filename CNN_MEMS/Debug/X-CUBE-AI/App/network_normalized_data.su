@@ -1,0 +1,2 @@
+network_normalized_data.c:412:11:ai_network_normalized_data_weights_get	4	static
+network_normalized_data.c:431:9:ai_network_normalized_data_params_get	32	static
